@@ -19,10 +19,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/dnl.879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dnl.879" height="30" width="40" /></a>
-<div style="display: inline-flex; align-items: center; gap: 8px;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  <span style="font-family: sans-serif; font-size: 16px; font-weight: bold;">dnl.8</span>
+<div style="display: inline-flex; align-items: center; gap: 15px;">
+  <!-- Instagram -->
+  <a href="https://instagram.com/dnl.879" target="blank" style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+
+  <!-- Discord -->
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+    <span style="font-family: sans-serif; font-size: 16px; font-weight: bold; color: white;">dnl.8</span>
+  </div>
 </div>
 </p>
 

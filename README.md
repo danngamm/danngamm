@@ -23,6 +23,7 @@
   <!-- Instagram -->
   <a href="https://instagram.com/dnl.879" target="blank" style="display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <span style="font-family: sans-serif; font-size: 16px; font-weight: bold; color: white;">dnl.879</span>
   </a>
 
   <!-- Discord -->
